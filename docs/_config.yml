@@ -3,3 +3,5 @@ description: HippoTweet! is a Twitter client app that only allows you to tweet. 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
