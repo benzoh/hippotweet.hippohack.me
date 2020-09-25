@@ -1,1 +1,5 @@
+title: HippoTweet!
+description: HippoTweet! is a Twitter client app that only allows you to tweet. You don't need to look at your timeline for hours anymore. Say goodbye to the time robbers.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
